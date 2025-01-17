@@ -1,2 +1,2 @@
 # IS6812
-IS 6812 1st Assignment
+This is for the IS 6812 course. It is to complete the 1st Assignment.
